@@ -1,0 +1,22 @@
+{
+  "h1": "A simple example",
+  "change-locale": "Change locale",
+  "to-second-page": "To second page",
+  "error-with-status": "A {{statusCode}} error occurred on server",
+  "error-without-status": "An error occurred on the server",
+  "title": "Title",
+  "home": "Home",
+  "about-us": "About Us",
+  "login": "Login",
+  "sign-up": "Sign Up",
+  "drop-down": "Dropdown",
+  "appointments": "APPOINTMENTS (818) 344-8522",
+  "above-nav-text": "TREE OF LIFE CENTER TURNS FIFTEEN — WE ARE CELEBRATING 15 YEARS OF SUCCESSFUL FERTILITY CARE AND WOMEN’S WELLNESS",
+  "heterosexual-couples": "Heterosexual couples",
+  "homosexual-couples": "LGBT",
+  "singles": "Singles",
+  "international": "International",
+  "treatments": "Treatments",
+  "doctors": "Doctors",
+  "contact": "Contact"
+}

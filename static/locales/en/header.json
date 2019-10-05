@@ -1,0 +1,15 @@
+{
+  "h1": "A simple example",
+  "change-locale": "Change locale",
+  "to-second-page": "To second page",
+  "error-with-status": "A {{statusCode}} error occurred on server",
+  "error-without-status": "An error occurred on the server",
+  "title": "Title",
+  "home": "Home",
+  "about-us": "About Us",
+  "login": "Login",
+  "sign-up": "Sign Up",
+  "drop-down": "Dropdown",
+  "contact": "Contact",
+  "above-nav-text": "TREE OF LIFE CENTER TURNS FIFTEEN — WE ARE CELEBRATING 15 YEARS OF SUCCESSFUL FERTILITY CARE AND WOMEN’S WELLNESS"
+}
